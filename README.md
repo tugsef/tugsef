@@ -37,11 +37,7 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/tugsef) 
 
-
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/></a>
-
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=tugsef)  
+ 
 
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/></a>
 
