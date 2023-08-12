@@ -1,7 +1,26 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+Here+👋" alt="Typing SVG" /></a>
+    
+
+# Software 🙏 Self-independent, reliable and friendly individual who works hard to achieve his goals.
+🚀 Adaptable quickly, and organized well. Interested in learning the latest web & software technologies quickly.
+®️Technical Skills  🫣 Soft Skills
+✅Team Management
+✅Interpersonal Skiils
+✅Problem Solving
+✅ Java  ✅OOP(Object Oriented Programming)
+✅ SpringBoot
+✅ Hipernate JPA
+✅ React ✅ Next
+✅Tailwind ✅ Bootstrap ✅ Semantic React ui
+✅ PostgreSQL ✅ORM
+✅Mongodb ✅NoSql
+✅ HTML5
+✅CSS3
+✅Git
+✅GitHub
+✅Rest API 
 
 
-# Software Developer
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/></a>
 
 # 💻 Tech Stack:
