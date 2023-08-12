@@ -4,25 +4,40 @@
 # Software Developer
 
 🙏 Self-independent, reliable and friendly individual who works hard to achieve his goals.
+
 🚀 Adaptable quickly, and organized well. Interested in learning the latest web & software technologies quickly.
+
 ®️Technical Skills  🫣 Soft Skills
 
 
 ✅Team Management
 
 ✅Interpersonal Skiils
+
 ✅Problem Solving
+
 ✅ Java  ✅OOP(Object Oriented Programming)
+
 ✅ SpringBoot
+
 ✅ Hipernate JPA
+
 ✅ React ✅ Next
+
 ✅Tailwind ✅ Bootstrap ✅ Semantic React ui
+
 ✅ PostgreSQL ✅ORM
+
 ✅Mongodb ✅NoSql
+
 ✅ HTML5
+
 ✅CSS3
+
 ✅Git
+
 ✅GitHub
+
 ✅Rest API 
 
 
