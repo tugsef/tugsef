@@ -73,6 +73,12 @@
 
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/></a>
 
+# :e-mail: Contact
+|***Sefa Demirtaş***|
+|:-------------|
+|*Software Developer*|
+|[Linkedin](https://www.linkedin.com/in/sefa-demirta%C5%9F-86b473230/)|
+|sefa.demirtas91@gmail.com|
 
 
 
