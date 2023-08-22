@@ -1,14 +1,16 @@
 
 
 <!-- Header -->
+
+<br>
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=tugsef&&style=plastics&&color=yellow" align="right"/>
+   <img src="https://i.imgur.com/A6bWGFl.gif"/>
+    
+</p>
 <p align="center">
   <img align="center" src="https://metrics.lecoq.io/tugsef"/>
 </p>
-<br>
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
-   <img src="https://komarev.com/ghpvc/?username=tugsef&&style=plastics&&color=yellow" align="right"/> 
-</p>
-
 
   
 
