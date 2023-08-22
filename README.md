@@ -42,14 +42,14 @@
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/></a>
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/></a>
 
-## ![](https://www.animatedimages.org/data/media/1353/animated-medal-image-0019.gif) GitHub Trophies
+## <img src="https://www.animatedimages.org/data/media/1353/animated-medal-image-0019.gif" width="40" height="40"/>  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tugsef&theme=chalk&no-frame=true&no-bg=true&margin-w=4)
 
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/></a>
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/></a>
 
 
-# ![](https://www.animatedimages.org/data/media/235/animated-email-image-0597.gif) Contact
+# <img src="https://www.animatedimages.org/data/media/235/animated-email-image-0597.gif" width="50" height="50"/>Contact
 |***Sefa Demirtaş***|
 |:-------------|
 |*Software Developer*|
@@ -58,8 +58,10 @@
 
 
 <br>
+
 <p align="center">
-  <span>😂 Random Dev Meme</span>
+  Random Dev Meme <img src="https://www.animatedimages.org/data/media/1386/animated-next-sign-image-0011.gif" width="50" height="50"/>
+
   <br/>
   <br/>
   
