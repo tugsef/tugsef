@@ -12,7 +12,7 @@
 </p>
 <br>
 <p align="center">
-  <img align="center" src="data:https://metrics.lecoq.io/tugsef"/>
+  <img align="center" src="https://metrics.lecoq.io/tugsef" onerror="this.style.display='none'"/>
 </p>
 
   
