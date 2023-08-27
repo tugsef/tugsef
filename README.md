@@ -3,17 +3,6 @@
 <!-- Header -->
 
 
-<p align="center">
-   <img src="https://komarev.com/ghpvc/?username=tugsef&&style=plastics&&color=yellow" align="right"/>
-  <br>
-    <br>
-   <img src="https://i.imgur.com/A6bWGFl.gif"/>
-    
-</p>
-<br>
-<p align="center">
-  <img align="center" src="https://metrics.lecoq.io/tugsef" "/>
-</p>
 
   
 
