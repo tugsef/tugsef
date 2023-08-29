@@ -108,7 +108,7 @@
 <br>
 
 <p align="center">
-  Random Dev Meme <img src="https://www.animatedimages.org/data/media/1386/animated-next-sign-image-0011.gif" width="50" height="50"/>
+  Random Dev <img src="https://www.animatedimages.org/data/media/1386/animated-next-sign-image-0011.gif" width="50" height="50"/>
 
   <br/>
   <br/>
