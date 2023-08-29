@@ -9,13 +9,8 @@
    <img src="https://i.imgur.com/A6bWGFl.gif"/>
 
 </p>
+<br/>
 
-  
-
-
-<a href="https://www.animatedimages.org/cat-lines-562.htm">
-   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/></a>
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/>
 
  <!--  Software Developer -->
 # <img  src="https://www.animatedimages.org/data/media/318/animated-computer-smiley-image-0081.gif" width="45" height="45"/> Software Developer
