@@ -80,7 +80,7 @@
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/></a>
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/></a>
 
-## <img src="https://www.animatedimages.org/data/media/1353/animated-medal-image-0019.gif" width="35" height="35"/>  GitHub Trophies
+# <img src="https://www.animatedimages.org/data/media/1353/animated-medal-image-0019.gif" width="35" height="35"/>  GitHub Trophies
 
 <p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=tugsef&theme=chalk&no-frame=true&no-bg=true&margin-w=4"/>
