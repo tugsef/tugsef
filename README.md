@@ -24,11 +24,27 @@
 
 🚀 Adaptable quickly, and organized well. Interested in learning the latest web & software technologies quickly.
 
- 
-<span align="center"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sefa-demirtaş-86b473230) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@tugsef) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14768745) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SefaDemirtas91) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sefad.4331) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sefademirtas944)
-</span>
 
-
+<p align="right">
+   <a href="https://linkedin.com/in/sefa-demirtaş-86b473230">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+   </a>
+   <a href="https://medium.com/@tugsef">
+      <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/>
+   </a>
+   <a href="https://stackoverflow.com/users/14768745">
+      <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"/>
+   </a>
+   <a href="https://twitter.com/SefaDemirtas91">
+      <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/>
+   </a>
+   <a href="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white">
+      <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/>
+   </a>
+   <a href="https://instagram.com/sefademirtas944">
+      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+   </a>
+</p>
 
 
 
