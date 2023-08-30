@@ -21,7 +21,7 @@
 
 
 <p align="right">
-   <a href="https://linkedin.com/in/sefa-demirtaş-86b473230">
+   <a href="https://linkedin.com/in/sefa-demirtas">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
    </a>
    <a href="https://medium.com/@tugsef">
@@ -33,7 +33,7 @@
    <a href="https://twitter.com/SefaDemirtas91">
       <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/>
    </a>
-   <a href="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white">
+   <a href="https://www.youtube.com/@sefa-demirtas">
       <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/>
    </a>
    <a href="https://instagram.com/sefademirtas944">
