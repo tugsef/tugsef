@@ -9,7 +9,22 @@
    <img src="https://i.imgur.com/A6bWGFl.gif"/>
 
 </p>
-<br/>
+
+
+
+<div style="style="text-align:right;"">
+         <span>
+
+    
+   <img align="right" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+ </span></div>
+
+   </br>
+    </br>
+     </br>
+      </br>
+
+
 
 
  <!--  Software Developer -->
@@ -112,7 +127,6 @@
 <br>
 
 <p align="center">
-  Random Dev <img src="https://www.animatedimages.org/data/media/1386/animated-next-sign-image-0011.gif" width="50" height="50"/>
 
   <br/>
   <br/>
