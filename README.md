@@ -92,13 +92,22 @@
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/></a>
 
 
-# <img src="https://www.animatedimages.org/data/media/235/animated-email-image-0597.gif" width="45" height="45"/>Contact
-|***Sefa Demirtaş***|
-|:-------------|
-|*Software Developer*|
-|sefa.demirtas91@gmail.com|
-<br>
 
+# <img src="https://www.animatedimages.org/data/media/235/animated-email-image-0597.gif" width="45" height="45"/>Contact
+
+<p align="center">
+<table align="center">
+  <tr align="left">
+    <th><b>SEFA DEMİRTAŞ</b></th>
+  </tr>
+  <tr>
+    <td>Software Developer</td>
+  </tr>
+  <tr>
+    <td><a href="mailto:sefa.demirtas91@gmail.com">sefa.demirtas91.gmail.com</a></td>
+  </tr>
+</table>
+</p>
 
 <br>
 
