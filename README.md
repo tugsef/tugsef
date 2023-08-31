@@ -3,7 +3,7 @@
 <!-- Header -->
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=tugsef&&style=plastics&&color=yellow" />
+   <img align="right" src="https://komarev.com/ghpvc/?username=tugsef&&style=plastics&&color=yellow" />
   <br>
     <br>
    <img src="https://i.imgur.com/A6bWGFl.gif"/>
@@ -12,17 +12,16 @@
 
 
 
-<div style="style="text-align:right;"">
-         <span>
+<p style="style="text-align:right;"">
+ <span> 
+    <img align="right" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+ </span>
+</p>
 
-    
-   <img align="right" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
- </span></div>
-
-   </br>
-    </br>
-     </br>
-      </br>
+</br>
+</br>
+</br>
+</br>
 
 
 
