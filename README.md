@@ -13,11 +13,10 @@
 
 
 <p style="style="text-align:right;"">
- <span> 
     <img align="right" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
- </span>
 </p>
 
+</br>
 </br>
 </br>
 </br>
