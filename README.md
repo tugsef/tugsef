@@ -3,7 +3,7 @@
 <!-- Header -->
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=tugsef&&style=plastics&&color=yellow" align="right"/>
+   <img src="https://komarev.com/ghpvc/?username=tugsef&&style=plastics&&color=yellow" />
   <br>
     <br>
    <img src="https://i.imgur.com/A6bWGFl.gif"/>
