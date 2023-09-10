@@ -1,7 +1,8 @@
 
 
 <!-- Header -->
-
+<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sefa-demirtas" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/sefa-demirtas?trk=profile-badge">Sefa Demirtas</a></div>
+              
 <p align="center">
    <img align="right" src="https://komarev.com/ghpvc/?username=tugsef&&style=plastics&&color=yellow" />
   <br>
