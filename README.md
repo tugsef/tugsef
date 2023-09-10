@@ -1,7 +1,7 @@
 
 
 <!-- Header -->
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<img src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></img>
 <p align="center">
    <img align="right" src="https://komarev.com/ghpvc/?username=tugsef&&style=plastics&&color=yellow" />
   <br>
