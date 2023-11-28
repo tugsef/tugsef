@@ -20,10 +20,6 @@ Management: Managed 25+ team members, prepared 500+ reports. Prepared 50+ presen
 
 ### EDUCATION
 
-- -
-
-- –
-
 |                          |                               |                    |
 | ------------------------ | ----------------------------- | ------------------ |
 | **Systems Engineering**  | _National Defense University_ | Aug 2009-Oct 2013  |
