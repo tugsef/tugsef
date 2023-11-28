@@ -1,6 +1,6 @@
 
 
-<!-- Header -->
+<!-- Header:START -->
 
 <p align="center">
    <img align="right" src="https://komarev.com/ghpvc/?username=tugsef&&style=plastics&&color=yellow" />
@@ -9,8 +9,6 @@
    <img src="https://i.imgur.com/A6bWGFl.gif"/>
 
 </p>
-
-
 
 <p style="style="text-align:right;"">
     <img align="right" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
@@ -23,17 +21,23 @@
 </br>
 </br>
 </br>
+<!-- Header:END -->
 
+<!-- ABOUT-ME:START -->
 
-
-
- <!--  Software Developer -->
-# <img  src="https://www.animatedimages.org/data/media/318/animated-computer-smiley-image-0081.gif" width="45" height="45"/> Software Developer
-
+##  <img  src="https://www.animatedimages.org/data/media/53/animated-book-image-0035.gif" width="25" height="25"/> About Me
 🙏 Self-independent, reliable and friendly individual who works hard to achieve his goals.
 
 🚀 Adaptable quickly, and organized well. Interested in learning the latest web & software technologies quickly.
-
+- 👨🏽‍💻 I’m currently learning new fields and improving my existing skills through online platforms.
+    - Here are my fields in these days:
+        - 🏄 Nodejs
+        - 🐅 Nestjs
+        - ✏️ React
+        - ⚒️ Typescript
+        - 🔧 Spring Boot & Microservices
+- 📶  I’m also currently working and learning Spring Boot, JSP, React, Java, Hibernate, SQL, HQL, Nodejs and Nestjs.
+- 📰 Here is my resume [Resume](https://github.com/tugsef/tugsef/blob/main/Resume.md)  <img  src="https://www.animatedimages.org/data/media/1096/animated-click-here-sign-and-button-image-0040.gif" width="55" height="55"/>
 
 <p align="right">
    <a href="https://linkedin.com/in/sefa-demirtas">
@@ -56,17 +60,36 @@
    </a>
 </p>
 
+<!-- ABOUT-ME:END -->
 
+<a href="https://www.animatedimages.org/cat-lines-562.htm">
+   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/></a>
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/>
+   
+<!-- BLOG-POST:START -->
 
+## <img  src="https://www.animatedimages.org/data/media/318/animated-computer-smiley-image-0081.gif" width="45" height="45"/>  Latest Blog Posts
 
+- [FocusSpark My blog](https://github.com/tugsef/client-blog)
+- [FocusSpark Demo](https://focusspark.vercel.app)
+- [Springboot Micro Service App](https://github.com/tugsef/microservice-app) 
+- [Spring Boot with the usage of JpaStreamer](https://github.com/Rapter1990/jpastreamer)
+- [Spring Boot with the usage of JpaStreamer](https://github.com/tugsef/backend-blog)
+
+<!-- BLOG-POST:END -->
+
+<!-- ANIMATION:START-->
 
 <a href="https://www.animatedimages.org/cat-lines-562.htm">
    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/></a>
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/>
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35" height="35"> Languages and Tools:
+<!-- ANIMATION:END-->
 
-   
+<!-- LANGUAGES-AND-TOOLS:START-->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35" height="35"> Languages and Tools:
+
 <p align="center">
   <img alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="reactrouter" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
@@ -95,7 +118,11 @@
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/></a>
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/></a>
 
-# <img src="https://www.animatedimages.org/data/media/1353/animated-medal-image-0019.gif" width="35" height="35"/>  GitHub Trophies
+<!-- LANGUAGES-AND-TOOLS:END-->
+
+<!-- GITHUB-TROPHIES:START-->
+
+## <img src="https://www.animatedimages.org/data/media/1353/animated-medal-image-0019.gif" width="35" height="35"/>  GitHub Trophies
 
 <p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=tugsef&theme=chalk&no-frame=true&no-bg=true&margin-w=4"/>
@@ -106,9 +133,11 @@
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/></a>
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/></a>
 
+<!-- GITHUB-TROPHIES:END-->
 
+<!-- CONTACT:START-->
 
-# <img src="https://www.animatedimages.org/data/media/235/animated-email-image-0597.gif" width="45" height="45"/>Contact
+## <img src="https://www.animatedimages.org/data/media/235/animated-email-image-0597.gif" width="45" height="45"/>Contact
 
 <p align="center">
 <table align="center">
@@ -125,21 +154,24 @@
 </p>
 
 <br>
+<!-- CONTACT:END-->
+
+<!-- RANDON-IMAGES:START-->
 
 <p align="center">
 
   <br/>
   <br/>
-  
-<img style="height: 400px" src='https://randommeme-five.vercel.app/' align="center"/> 
+
+   <img style="height: 400px" src='https://randommeme-five.vercel.app/' align="center"/> 
 
 </p>
 
 
 ---
 
+<!-- RANDON-IMAGES:END-->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
