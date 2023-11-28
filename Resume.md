@@ -9,7 +9,7 @@
 
 ### Summary
 
-With 3+ years of experience in IT and an expert software developer, interested in writing codes, skilled at developing complex solutions, creating responsive designs, possessing strong creative thinking skills, high energy and integrity. Ability to create algorithms effectively, and interact positively and communicate appropriately with team members. Quickly grasp new technologies and concepts to develop innovative and creative solutions to problems. Always eager to learn various technologies, tools and libraries. Especially interested in the **Full stack/Web Development, HTML, CSS, JS, React, Next.js, Java , Spring Framework, Docker, Basic Kubernetes and Basic Node.js** Excited to learn new things and improve, lifetime student.
+With 3+ years of experience in IT and an expert software developer, interested in writing codes, skilled at developing complex solutions, creating responsive designs, possessing strong creative thinking skills, high energy and integrity. Ability to create algorithms effectively, and interact positively and communicate appropriately with team members. Quickly grasp new technologies and concepts to develop innovative and creative solutions to problems. Always eager to learn various technologies, tools and libraries. Especially interested in the **`Full stack/Web Development, HTML, CSS, JS, React, Next.js, Java , Spring Framework, Docker, Basic Kubernetes and Basic Node.js`** Excited to learn new things and improve, lifetime student.
 
 ### WORK EXPERIENCE
 
@@ -32,39 +32,39 @@ Management: Managed 25+ team members, prepared 500+ reports. Prepared 50+ presen
 
 ### PROJECTS
 
-- **FocusSpark:** This blog is the frontend of my site.It is a Project that I aim to use using React in the frontend Skills/tools:Used Nextjs, Supabase, Typescript, SEO, Markdown, Contentlayer and Framer-motion
+- **`FocusSpark`:** This blog is the frontend of my site.It is a Project that I aim to use using React in the frontend Skills/tools:Used Nextjs, Supabase, Typescript, SEO, Markdown, Contentlayer and Framer-motion
 
   > Demo FocusSpark: https://focusspark.vercel.app/
   > Github address: https://github.com/tugsef/client-blog
 
-- **Backend-blog:** The solutions I have learned and developed are those who are intersred in other software and /or the developments are extended on the blog.It is a Project that I aim to use using React in the frontend Skills/tools:Used Nestjs, Prisma, Docker and PostgreSQL tools. Manual testing was performed by Swagger and Postman
+- **`Backend-blog`:** The solutions I have learned and developed are those who are intersred in other software and /or the developments are extended on the blog.It is a Project that I aim to use using React in the frontend Skills/tools:Used Nestjs, Prisma, Docker and PostgreSQL tools. Manual testing was performed by Swagger and Postman
 
   > Github address: https://github.com/tugsef/backend-blog
 
-- **Microservice-app:** I made this project using Spring Boot, SpringCloud, Spring JPA, Hibernate, Eureka Server, Lombok, Docker, MySQL, Elasticsearch, RabbitMQ, Cassandra, Modelmapper, Feign Client, Zipkin etc.
+- **`Microservice-app:`** I made this project using Spring Boot, SpringCloud, Spring JPA, Hibernate, Eureka Server, Lombok, Docker, MySQL, Elasticsearch, RabbitMQ, Cassandra, Modelmapper, Feign Client, Zipkin etc.
 
   > Github address: https://github.com/tugsef/microservice-app
 
-- **Portfolio:** https://sefademirtas.netlify.app/ I made this project using Next.js and Tailwind
+- **`Portfolio:`** https://sefademirtas.netlify.app/ I made this project using Next.js and Tailwind
 
   > Github address: https://github.com/tugsef/modernPortfolioApp
 
-- **Agency Tourism App:** You can search for a hotel wherever you want and make a reservation. The program has been secured with Spring Security. Skills/Tools: Java, Springboot, Spring Security, React router, Semantic ui, React query, React Context, semantic ui react, formik, axios, Postgresql, Swagger, Postman, Model mapper etc.
+- **`Agency Tourism App:`** You can search for a hotel wherever you want and make a reservation. The program has been secured with Spring Security. Skills/Tools: Java, Springboot, Spring Security, React router, Semantic ui, React query, React Context, semantic ui react, formik, axios, Postgresql, Swagger, Postman, Model mapper etc.
 
   > Github address: https://github.com/tugsef/agencyTourism
 
-- **E-Commerce App :** This project is a shopping site where users serving as e-commerce can register and see their carts. Skills/Tools: Java, Springboot, React, Semantic ui, Redux, Redux-Persist, formik, yup, axios, Postgresql, Swagger, Postman etc.
+- **`E-Commerce App :`** This project is a shopping site where users serving as e-commerce can register and see their carts. Skills/Tools: Java, Springboot, React, Semantic ui, Redux, Redux-Persist, formik, yup, axios, Postgresql, Swagger, Postman etc.
 
   > Github address: https://github.com/tugsef/react-e-Commerce
 
-- **Rent A Car App:** There are two type of users exits in system, first one is admin who has full rights and he can perform any type of operation in the project such as adding a new car, reporting etc. Skills/Tools:Java, JavaSpringboot, Lombok, Swagger, PostgreSQL etc.
+- **`Rent A Car App:`** There are two type of users exits in system, first one is admin who has full rights and he can perform any type of operation in the project such as adding a new car, reporting etc. Skills/Tools:Java, JavaSpringboot, Lombok, Swagger, PostgreSQL etc.
 
   > Github address: https://github.com/tugsef/springBootRentACarProject
 
-- **Organization Agency:** https://organizationokay.netlify.app/ Made for the organization company. Skills/Tools: React, Next.js ,Tailwind etc.
+- **`Organization Agency:`** https://organizationokay.netlify.app/ Made for the organization company. Skills/Tools: React, Next.js ,Tailwind etc.
   Github address: https://github.com/tugsef/organizationapp
 
-- **Hospital Automatoin System:** Adding and removing the powers of the chief physician, adding and removing doctors. Patients can make an appointmen Skills/Tools: Java, Java, JDBS, Swing, SQL, PostgreSQL etc.
+- **`Hospital Automatoin System:`** Adding and removing the powers of the chief physician, adding and removing doctors. Patients can make an appointmen Skills/Tools: Java, Java, JDBS, Swing, SQL, PostgreSQL etc.
   > Github address: https://github.com/tugsef/hospitalAutomatoinSystem
 
 ### TECHNICAL SKILLS
