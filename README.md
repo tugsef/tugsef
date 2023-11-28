@@ -71,8 +71,7 @@
 - [FocusSpark My blog](https://github.com/tugsef/client-blog)
 - [FocusSpark Demo](https://focusspark.vercel.app)
 - [Springboot Micro Service App](https://github.com/tugsef/microservice-app) 
-- [Spring Boot with the usage of JpaStreamer](https://github.com/Rapter1990/jpastreamer)
-- [Spring Boot with the usage of JpaStreamer](https://github.com/tugsef/backend-blog)
+- [Nestjs Backen Blog](https://github.com/tugsef/backend-blog)
 
 <!-- BLOG-POST:END -->
 
