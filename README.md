@@ -22,6 +22,7 @@
 <!-- Header:END -->
 
 <!-- ABOUT-ME:START -->
+</br>
 
 ##  <img  src="https://www.animatedimages.org/data/media/53/animated-book-image-0035.gif" width="25" height="25"/> About Me
 🙏 Self-independent, reliable and friendly individual who works hard to achieve his goals.
@@ -57,9 +58,17 @@
       <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
    </a>
 </p>
+<a href="https://www.animatedimages.org/cat-lines-562.htm">
+   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/></a>
 
 <!-- ABOUT-ME:END -->
-
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/>
+<div align="center">
+  <a href="https://github.com/claytoneduard">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tugsef&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tugsef&layout=compact&langs_count=7&theme=dark"/>
+</div>
+     <b/>
 <a href="https://www.animatedimages.org/cat-lines-562.htm">
    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/></a>
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" border="0" alt="animated-line-image-0384" width="1920" height="2"/>
