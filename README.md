@@ -8,7 +8,7 @@
     <br>
    <img src="https://i.imgur.com/A6bWGFl.gif"/>
 
-https://github.com/tugsef/tugsef/assets/39422788/90507372-1ec9-4bad-9607-96d784c485fa
+
 
 
 </p>
