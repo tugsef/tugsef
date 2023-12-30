@@ -1,5 +1,5 @@
 
-
+  
 <!-- Header:START -->
 
 <p align="center">
@@ -8,8 +8,21 @@
     <br>
    <img src="https://i.imgur.com/A6bWGFl.gif"/>
 
-</p>
+https://github.com/tugsef/tugsef/assets/39422788/90507372-1ec9-4bad-9607-96d784c485fa
 
+
+</p>
+    <video
+        autoPlay
+        muted
+        loop
+        className="w-full h-screen object-cover object-center opacity-70"
+        playsInline
+        disableRemotePlayback={true}
+      >
+        <source src="/media/logo-video.mp4" type="video/mp4" />
+        Your browser does not support the video tag.
+      </video>
 <p style="style="text-align:right;"">
     <img align="right" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
