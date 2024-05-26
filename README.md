@@ -175,22 +175,6 @@
 <br>
 <!-- CONTACT:END-->
 
-<!-- RANDON-IMAGES:START-->
-
-<p align="center">
-
-  <br/>
-  <br/>
-
-   <img style="height: 400px" src='https://randommeme-five.vercel.app/' align="center"/> 
-
-</p>
-
-
----
-
-<!-- RANDON-IMAGES:END-->
-
 
 
 
