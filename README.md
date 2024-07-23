@@ -24,7 +24,7 @@
         Your browser does not support the video tag.
       </video>
 <p >
-    <img     src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
+    <img     align="center" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
 </p>
 
 </br>
