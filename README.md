@@ -6,7 +6,7 @@
    <img align="right" src="https://komarev.com/ghpvc/?username=tugsef&&style=plastics&&color=yellow" />
   <br>
     <br>
-   <img width=500 height=500 src="https://i.imgur.com/A6bWGFl.gif"/>
+   <img  src="https://i.imgur.com/A6bWGFl.gif"/>
 
 
 
@@ -24,7 +24,7 @@
         Your browser does not support the video tag.
       </video>
 <p >
-    <img   style="width: 100%; height: 100%; object-fit: cover;" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+    <img   width=500 height=500 style="width: 100%; height: 100%; object-fit: cover;" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 </br>
