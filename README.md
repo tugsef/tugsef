@@ -17,7 +17,6 @@
         disableRemotePlayback={true}
       >
         <source src="/media/logo-video.mp4" type="video/mp4" />
-        Your browser does not support the video tag.
       </video>
 <p align="center" >
     <img      src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
