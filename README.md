@@ -6,7 +6,7 @@
    <img align="right" src="https://komarev.com/ghpvc/?username=tugsef&&style=plastics&&color=yellow" />
   <br>
     <br>
-   <img style="width: 100%; height: auto;" src="https://i.imgur.com/A6bWGFl.gif"/>
+   <img style="width: 100%; height: 100%; object-fit: cover;" src="https://i.imgur.com/A6bWGFl.gif"/>
 
 
 
