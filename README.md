@@ -7,10 +7,6 @@
   <br>
     <br>
    <img  src="https://i.imgur.com/A6bWGFl.gif"/>
-
-
-
-
 </p>
     <video
         autoPlay
@@ -23,19 +19,13 @@
         <source src="/media/logo-video.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
-<p >
-    <img     align="center" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
+<p align="center" >
+    <img      src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
 </p>
-
-</br>
-</br>
-</br>
-</br>
 
 <!-- Header:END -->
 
 <!-- ABOUT-ME:START -->
-</br>
 
 ##  <img  src="https://www.animatedimages.org/data/media/53/animated-book-image-0035.gif" width="25" height="25"/> About Me
 🙏 Self-independent, reliable and friendly individual who works hard to achieve his goals.
