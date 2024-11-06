@@ -79,7 +79,7 @@
 
 ## <img  src="https://www.animatedimages.org/data/media/318/animated-computer-smiley-image-0081.gif" width="45" height="45"/>  Latest Blog Posts
 
-- [FocusSpark My blog](https://github.com/tugsef/client-blog)
+- [Figma UI Clone with Nextjs](https://figma-example-six.vercel.app)
 - [FocusSpark Demo](https://focusspark.vercel.app)
 - [Springboot Micro Service App](https://github.com/tugsef/microservice-app) 
 - [Nestjs Backen Blog](https://github.com/tugsef/backend-blog)
